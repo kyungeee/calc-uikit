@@ -1,6 +1,6 @@
 # calc-uikit
 #### UIKit을 이용한 계산기 만들기
-<br><br><br>
+<br><br>
 
 |<img src= "https://s3.ezgif.com/save/ezgif-3-a49f4bdb01.gif" width="50%">|<img src="https://s3.ezgif.com/save/ezgif-3-1d0b4eb28f.gif" width="50%">|
 |:-:|:-:|

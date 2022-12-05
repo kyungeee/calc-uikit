@@ -40,7 +40,10 @@ struct CalcInsider {
     
     // 계산값이 실수가 아닌경우 정수로 처리해주는 함수
     func removePoint(num: String) -> String {
-        let floatNumString = Double(num)!
+        
+        guard let floatNumString = Double(num) else {
+            return ("오류")
+        }
         var numString = num
         if floatNumString == floor(floatNumString) {
             for _ in 0..<numString.count {

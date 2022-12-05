@@ -8,6 +8,7 @@
 import UIKit
 import AVFoundation
 
+// vc
 class ViewController: UIViewController {
     
     // Property

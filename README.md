@@ -4,7 +4,7 @@
 
 ## 스크린샷 📸
 
-|<img src= "https://s3.ezgif.com/save/ezgif-3-dafb1b9066.gif" width="50%">|<img src="https://s3.ezgif.com/save/ezgif-3-1d0b4eb28f.gif" width="50%">|
+|<img src= "https://user-images.githubusercontent.com/93297223/205600953-d8f8388f-997d-4e34-8bd1-939facd046d8.gif" width="50%">|<img src="https://user-images.githubusercontent.com/93297223/205601057-fdcfa3cb-8564-4296-bd36-0b230a71b34d.gif" width="50%">|
 |:-:|:-:|
 |+, -, x 연산 실행| / 연산 실행 (결과값 정수, 실수 처리 & 0으로 나누었을때 오류처리)|
 
